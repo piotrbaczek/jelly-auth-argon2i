@@ -1,0 +1,16 @@
+{
+  "name": "piotrgolasz/jelly-auth-argon2i",
+  "description": "Argon2i auth for jelly ORM",
+  "license": "BSD",
+  "keywords": [
+    "koseven"
+  ],
+  "authors": [
+    {
+      "name": "Piotr Gołasz",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+}
